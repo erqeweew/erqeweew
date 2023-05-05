@@ -1,4 +1,4 @@
-<h2>This new account for my [old Account](https://github.com/erqewee)</h2>
+<h2>This new account for my old <a href="https://github.com/erqewee">GitHub Account</h2>
 
 <h5 align="center">If there were no software developers, even if we had a phone, we would not be able to use it.</h1>
 
